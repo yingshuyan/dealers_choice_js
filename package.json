@@ -18,6 +18,8 @@
   "homepage": "https://github.com/yingshuyan/dealers_choice_js#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "nodemon": "^2.0.7"
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.7",
+    "pg": "^8.6.0"
   }
 }
